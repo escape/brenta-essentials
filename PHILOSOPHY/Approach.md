@@ -1,0 +1,1 @@
+Culture leads and data obeys.

@@ -1,2 +1,2 @@
 # Interim Management
-> *Stub — will describe tactical insertion roles (interim CMO, etc.).*
+> *Stub — will describe tactical insertion roles (fractional/interim CMO, etc.).*
