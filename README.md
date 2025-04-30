@@ -1,6 +1,6 @@
 # brenta-essentials
 
-*Brenta operates where marketing meets complexity, culture, and systemic awareness.*
+*Brenta operates where marketing meets systemic awareness.*
 
 Welcome to the **public‑beta outline** of Brenta’s practice. This repository is the canonical source for our company profile, service descriptions and philosophical framing.
 
