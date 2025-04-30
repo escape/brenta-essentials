@@ -4,9 +4,6 @@
 
 Welcome to the **public‑beta outline** of Brenta’s practice. This repository is the canonical source for our company profile, service descriptions and philosophical framing.
 
-> **Repo description**  
-> *A public outline of Brenta’s practice at the intersection of marketing and meaning.*
-
 ## Directory map
 
 ```
