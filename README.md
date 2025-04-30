@@ -19,7 +19,7 @@ SERVICE_TYPES/          ← four ways we collaborate with clients
     Co_Management.md
     Consulting.md
     Brokering.md
-PHILOSOPHY/             ← optional deeper context
+PHILOSOPHY/             ← deeper context
     Vision.md
     Approach.md
 LICENSE                 ← Creative Commons BY‑SA 4.0
