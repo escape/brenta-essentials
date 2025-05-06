@@ -39,7 +39,7 @@ Brenta’s work sits at the crossroads of marketing, data and public-interest de
 
 ## 6  Governance & review
 
-* **Policy owner** – Data Protection Officer (`dpo@brenta.eu`).
+* **Policy owner** – Data Protection Officer (`dpo@brenta.io`).
 * **Next review** – November 2025 (or sooner if EU law changes materially).
 * **Approval chain** – Draft by DPO → review by Legal Counsel → ratification by Managing Partner.
 
